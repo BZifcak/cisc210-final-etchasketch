@@ -1,0 +1,3 @@
+compiling and use:
+use "make EtchaSketch" to build the program and ./EtchaSketch to run it.
+After calling ./EtchaSketch wait a couple seconds for the pi to calibrate. Once you see the pixel flashing its ready to start. Push the joystick "in" to change between moving and drawing modes. While in either mode, pushing the joystick will move the active pixel one pixel in that direction. While in moving mode, the current pixel will blink on and off. While in drawing mode, the pixel will "draw" a trail of white behind it. In order to clear the board and end the program, shake the pi (like an etchasketch).
